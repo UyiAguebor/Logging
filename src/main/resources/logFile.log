@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-22T14:53:47.479462700Z</date>
+  <millis>1700664827479</millis>
+  <nanos>462700</nanos>
+  <sequence>0</sequence>
+  <logger>com.sparta.ua.App</logger>
+  <level>INFO</level>
+  <class>com.sparta.ua.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is an info message</message>
+</record>
+<record>
+  <date>2023-11-22T14:53:47.491144600Z</date>
+  <millis>1700664827491</millis>
+  <nanos>144600</nanos>
+  <sequence>1</sequence>
+  <logger>com.sparta.ua.App</logger>
+  <level>WARNING</level>
+  <class>com.sparta.ua.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a warning message Hello</message>
+</record>
+</log>
